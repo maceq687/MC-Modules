@@ -6,4 +6,5 @@ This could be:
 *  Leap Motion (Geco MIDI mapped)
 *  MPE compatible MIDI controller  
 
-If patch was created for something else than a simple MIDI keyboard its name will indicated that.
+Patches:  
+*  leap1.pd - [leap motion wobble bass](https://blog.macieksypniewski.com/2020/01/17/pure-data-leap-motion-wobble-bass-patch/)
