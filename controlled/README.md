@@ -8,3 +8,4 @@ This could be:
 
 Patches:  
 *  leap1.pd - [leap motion wobble bass](https://blog.macieksypniewski.com/2020/01/17/pure-data-leap-motion-wobble-bass-patch/)
+* joystick-qd-snth - [teapot synthesizer](https://blog.macieksypniewski.com/2020/02/07/pure-data-teapot-synthesizer/)
