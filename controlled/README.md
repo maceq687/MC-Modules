@@ -10,3 +10,5 @@ Patches:
 *  leap1.pd - [leap motion wobble bass](https://blog.macieksypniewski.com/2020/01/17/pure-data-leap-motion-wobble-bass-patch/)
 *  joystick-qd-snth.pd - [teapot synthesizer](https://blog.macieksypniewski.com/2020/02/07/pure-data-teapot-synthesizer/)
 *  vector-mpe-probability-even-odd.pd - [vector synthesizer](https://blog.macieksypniewski.com/2020/07/03/vector-synthesizer/)
+*  joy-piano-seq.pd - [joystick piano](https://blog.macieksypniewski.com/2020/12/15/joystick-piano/) - Win version (requires hidio library)
+*  joy-piano-seq-RPI.pd - [joystick piano](https://blog.macieksypniewski.com/2020/12/15/joystick-piano/) - RPi version (requires pd-hid package)
