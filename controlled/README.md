@@ -8,6 +8,7 @@ This could be:
 
 Patches:  
 *  leap1.pd - [leap motion wobble bass](https://blog.macieksypniewski.com/2020/01/17/pure-data-leap-motion-wobble-bass-patch/)
+[![Leap Motion](http://img.youtube.com/vi/FVwysfLuI3I/0.jpg)](http://www.youtube.com/watch?v=FVwysfLuI3I "Pure Data & Leap Motion - bass demo")
 *  joystick-qd-snth.pd - [teapot synthesizer](https://blog.macieksypniewski.com/2020/02/07/pure-data-teapot-synthesizer/)
 *  vector-mpe-probability-even-odd.pd - [vector synthesizer](https://blog.macieksypniewski.com/2020/07/03/vector-synthesizer/)
 *  joy-piano-seq.pd - [joystick piano](https://blog.macieksypniewski.com/2021/01/06/joystick-piano/) - Win version (requires hidio library)
